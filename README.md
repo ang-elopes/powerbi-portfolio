@@ -45,7 +45,7 @@ Dashboard desenvolvido para análise de recebimentos, pagamentos e indicadores f
 
 ### Preview
 
-![Dashboard Financeiro Empresarial](imagens/dashboard-empresarial.png)
+![Dashboard Financeiro Empresarial](imagens/dashboard-financeiro-empresarial.png)
 
 ---
 
